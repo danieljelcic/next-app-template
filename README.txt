@@ -1,5 +1,3 @@
-Replication of https://andrewagain.github.io/calculator/
+Template for simple Next.js client apps.
 
-Put together in 1 hour.
-
-Next.js + Tailwind + clsx
+Run with `npm start dev` or via VS Code Debugger (`launch.json` provided).
